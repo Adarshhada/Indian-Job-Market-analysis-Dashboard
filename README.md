@@ -74,7 +74,8 @@ Built using real-world datasets sourced from **Kaggle** to support career and hi
 
 
 
-![Dashboard Preview](<img width="1365" height="766" alt="Screenshot 2025-12-18 225329" src="https://github.com/user-attachments/assets/9dd95d1d-fa0b-424a-8723-a6486e3df9f2" />)
+![Dashboard Preview](<img width="1409" height="788" alt="Screenshot 2025-12-23 150553" src="https://github.com/user-attachments/assets/a2394728-2a38-445f-a750-caad2d13c6af" />
+)
 
 
 👤 Author
