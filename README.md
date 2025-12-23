@@ -69,8 +69,8 @@ Built using real-world datasets sourced from **Kaggle** to support career and hi
 - Format: CSV  
 - Covers job roles, salaries, companies, locations, skills, and experience levels  
 
-🔗 Dataset Link:  
-"C:\Users\aadar\Downloads\Job_Market_India.csv"
+🔗 Dataset Link: Job_Market_India (1)
+
 
 
 
