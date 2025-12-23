@@ -72,12 +72,6 @@ Built using real-world datasets sourced from **Kaggle** to support career and hi
 🔗 Dataset Link: 
 
 
-
-
-![Dashboard Preview](<img width="1409" height="788" alt="Screenshot 2025-12-23 150553" src="https://github.com/user-attachments/assets/a2394728-2a38-445f-a750-caad2d13c6af" />
-)
-
-
 👤 Author
 Name = Adarsh Hada
 📊 Aspiring Data Analyst
